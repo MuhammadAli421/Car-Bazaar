@@ -1,3 +1,3 @@
 # Car-Bazaar
 A car selling platform. 
-Author - Muhammad Ali Arif
+Developer - Muhammad Ali Arif
