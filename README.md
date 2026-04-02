@@ -1,3 +1,3 @@
 # Car-Bazaar
-A car selling platform 
+A car selling platform. 
 Author - Muhammad Ali Arif
